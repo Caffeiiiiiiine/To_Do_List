@@ -1,0 +1,2 @@
+# Requirements for To-Do List App
+# No external dependencies needed; uses Python standard library
